@@ -6,4 +6,4 @@ This app is designed for anyone and everyone that prefers to have a physical lis
 
 
 ### Jumbotron Screenshot 
-![Workday Scheduler](./assets/images/work-day-scheduler.png "Workday Scheduler landing page image")
+![Workday Scheduler](./assets/images/workday-scheduler.png "Workday Scheduler landing page image")
